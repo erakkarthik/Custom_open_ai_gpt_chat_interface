@@ -15,3 +15,8 @@ The Custom OpenAI GPT Chat Interface is an interactive application that enables 
 ## Installation
 
 1. Clone the repository to your local machine:
+
+## Links
+
+1. Demo video : https://www.youtube.com/watch?v=mPZmu60fZJE
+2. Presentation : https://docs.google.com/presentation/d/1nPOsPi-hbuUXSQCIJvlwbI80xsNIy4js/edit?usp=sharing&ouid=111637480551680387260&rtpof=true&sd=true
